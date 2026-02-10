@@ -50,7 +50,7 @@
 - 10050 - неизвестно (предположительно, служебный порт сервиса Zabbix Monitoring)
 
 Скриншоты: 
-![[Report_OSINT_1.png]]
+https://github.com/cmdfrid/sib-Diplom-Track-Penetration-Testing/blob/main/Report_OSINT_1.png
 ![[Report_OSINT_2.png]]
 
 Ссылка на отчёт: https://www.shodan.io/host/92.51.39.106
