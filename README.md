@@ -24,15 +24,16 @@
 
 Сначала поиск рабочих веб-сайтов с помощью `site:92.51.39.106`:
 
-![[Report_OSINT_4.png]]
+![image](https://github.com/cmdfrid/sib-Diplom-Track-Penetration-Testing/blob/main/Report_OSINT_4.png)
 
 Поиск администраторской панели с помощью `inurl:admin site:92.51.39.106`:
 
-![[Report_OSINT_5.png]]
+![image](https://github.com/cmdfrid/sib-Diplom-Track-Penetration-Testing/blob/main/Report_OSINT_5.png)
 
 Поиск файлов журнала с помощью `filetype:log site:92.51.39.106` и `filetype:txt site:92.51.39.106`:
 
-![[Report_OSINT_6.png]]
+![image](https://github.com/cmdfrid/sib-Diplom-Track-Penetration-Testing/blob/main/Report_OSINT_6.png)
+
 ### 1.2: Результат сбора информации с помощью Shodan.io
 
 | Параметр     | Значение               |
@@ -49,11 +50,12 @@
 - 22 (TCP) - OpenSSH 8.2p1 Ubuntu 4ubuntu0.13
 - 10050 - неизвестно (предположительно, служебный порт сервиса Zabbix Monitoring)
 
-Скриншоты: ![image](https://github.com/cmdfrid/sib-Diplom-Track-Penetration-Testing/blob/main/Report_OSINT_1.png?raw=true)
+Скриншоты: 
 ![image](https://github.com/cmdfrid/sib-Diplom-Track-Penetration-Testing/blob/main/Report_OSINT_1.png)
-![[Report_OSINT_2.png]]
+![image](https://github.com/cmdfrid/sib-Diplom-Track-Penetration-Testing/blob/main/Report_OSINT_2.png)
 
 Ссылка на отчёт: https://www.shodan.io/host/92.51.39.106
+
 ### 1.3: Результат сбора информации с помощью CriminalIP.io
 | Параметр          | Значение           |
 | ----------------- | ------------------ |
@@ -70,7 +72,7 @@
 
 Скриншоты:
 
-![[Report_OSINT_3.png]]
+![image](https://github.com/cmdfrid/sib-Diplom-Track-Penetration-Testing/blob/main/Report_OSINT_3.png)
 
 Ссылка на отчёт: https://search.criminalip.io/asset/report/92.51.39.106
 ### 1.4 Анализ собранной информации
